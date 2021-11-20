@@ -1,4 +1,4 @@
-/* Shaina Bess Medina
+/* Medina Shaina Bess
    San Juan Jan Catherine
    CMSC 124
    ME1
